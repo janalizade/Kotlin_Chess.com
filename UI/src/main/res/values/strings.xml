@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Chess.com Info</string>
+    <string name="action_search">Search</string>
+    <string name="error_no_browser">No browser on device.</string>
+
+    <!-- Tabs -->
+    <string name="title_player_profile">Profile</string>
+    <string name="title_player_stats">Stats</string>
+    <string name="title_club_profile">Profile</string>
+    <string name="title_club_members">Members</string>
+    <string-array name="player_tabs">
+        <item>@string/title_player_profile</item>
+        <item>@string/title_player_stats</item>
+    </string-array>
+
+    <string-array name="club_tabs">
+        <item>@string/title_club_profile</item>
+        <item>@string/title_club_members</item>
+    </string-array>
+
+    <string name="players">Players</string>
+    <string name="clubs">Clubs</string>
+    <string name="home">Puzzles</string>
+    <string name="connection_failed">Failed to load.</string>
+    <string name="empty_favorite_players">No Favorite Players Yet</string>
+    <string name="no_bookmarked_clubs">No bookmarked clubs yet.</string>
+    <string name="no_bookmarked_players">No bookmarked players yet.</string>
+    <string name="no_result_found">No result found.</string>
+    <string name="no_club_members">No club members.</string>
+    <string name="no_games">No games found.</string>
+</resources>
